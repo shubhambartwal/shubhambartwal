@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhambartwal
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning nodejs and reactjs
+- 🌱 I’m currently learning MERN stack
 -
 
 <!---

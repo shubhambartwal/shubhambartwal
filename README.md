@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhambartwal
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning MERN stack
 -
 

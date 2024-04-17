@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Bartwa;</h1>
+<h1 align="center">Hi 👋, I'm Shubham Bartwal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
  <p align = "center">
 <img align="center" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479fhhkumagmqfa8qilyfq0haltwp42e8gjsovti4q&rid=giphy.gif&ct=g">

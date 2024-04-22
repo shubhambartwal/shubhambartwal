@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning  <b>**nodejs,javascript, ReactJS**</b>
  </p>
 <p align = "center">
-- 💬 Ask me about  <b>****</b>
+- 💬 Ask me about  <b>MERN Stack</b>
   </p>
 <p align = "center">
 - 📫 How to reach me <b>**shubhambartwalsocial123@gmail.com**</b>
@@ -17,9 +17,9 @@
 
 <h2 align="center" style = "font = 200px">Connect with me:</h2>
 <p align="center">
- <a href="https://twitter.com/Pranjals_twt" target="blank"><img align="center" src="https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-twitter-circled-100.png?raw=true" alt="pranjal-joshi-twitter" height="60" width="60" /></a>
-<a href="https://linkedin.com/in/pranjal-joshi-5a234116a" target="blank"><img align="center" src="https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-linkedin-circled-48.png?raw=true" alt="pranjal-joshi-5a234116a" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/devpj09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="devpj09" height="100" width="110" /></a>
+ <a href="https://twitter.com/mavenBr2" target="blank"><img align="center" src="https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-twitter-circled-100.png?raw=true"  height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/shubham-bartwal-361a82196/" target="blank"><img align="center" src="https://github.com/DevPJ9/DevPJ9/blob/main/Resources/icons8-linkedin-circled-48.png?raw=true"  height="40" width="40" /></a>
+<a href="https://leetcode.com/shubhambartwal/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="devpj09" height="100" width="110" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
